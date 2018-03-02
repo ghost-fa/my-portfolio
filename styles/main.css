@@ -1,0 +1,4 @@
+@import "normalize.css";
+body, body * {
+  box-sizing: border-box;
+}
